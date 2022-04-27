@@ -8,34 +8,3 @@ So even when the movements of opinion on social networks do not result in real s
 
 The concept of digital movement of opinion therefore provides us with a useful framework for framing and studying debates developed on social media and focused on a single main topic, so in our case we applied it to the discussion that took place on the issue of ESM in Italy between end of November and beginning of December. Using this conceptual framework, we investigated quantitatively the salient features of the debate in question. However, before proceeding to the actual analysis, the debate itself was contextualized within the Italian-European socio-political framework. The contextualization also served to identify the salient aspects of the subsequent analysis, to design the questions and establish "what to look for" in the dataset. The result is a multifaceted framework within which various research themes intersect and overlap: the ESM, as a European treaty on financial matters, involves the Eurosceptic component of the public debate and the broader discourse on austerity and European responses to the recent financial and debt crises in 2008-2011. The salient passages of the development of the treaty and its reform have been reconstructed, as well as the mounting of a Eurosceptic sentiment within Europe (and Italy) in the last thirty years, with focus on the post-2008 period. The Italian national political context at the end of 2019 was analysed too. Regarding it, Italy stands out for the presence of populist parties with anomalous history and presence in parliament (over 50%), and the debate itself on the reform of the ESM has largely involved populist forces. Given this, it was decided to investigate two points: the link between populism and social media, a topic of growing academic relevance, and the link between populism and Euroscepticism, particularly in the Italian context. With regard to the first point, in addition to the analysis of the debate, an analysis of the users was made for the identification of social bots, with regard to the second point the content of the most salient tweets in the debate was analysed, using a qualitative approach, searching for key elements indicating the presence of populist or Eurosceptic rhetoric.
 In conclusion, there are three key passages in this work: the socio-political contextualization of the debate on ESM in Italy, useful for identifying the subsequent themes and research questions; the quantitative analysis of the dataset obtained on Twitter, using the DMO framework; the qualitative analysis of the phenomenon in the context of populism and Euroscepticism established in the Italian political debate.
-
- Relevant Features 
-Feature
-Description
-Euroscepticism
-
-
-    Authorities
-Negative attitudes towards public officials and institutional actors that exercise EU governance
-    Regime
-Negative attitudes towards the political values, norms and structures of the EU
-    Community
-Negative attitudes towards other citizens understood as fellow members of the European collective
-Populism
-
-
-    People Vs Elite
-Presence of the basic populist frame, division of society into people against elite
-    Performing Crises
-Feeling of urgency beacuse of institutional or economic crisis
-Social Media Dynamics
-
-
-    Connective Action
-Mobilization from below, appeal for the re-sharing and dissemination of the message
-    Refraction
-Re-sharing of contents with addition of text that affects message interpretation
-    Delegitimization
-Formal political institutions considered not legitimate, accusation of treason and request for resignation
-
-
